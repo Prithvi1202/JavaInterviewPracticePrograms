@@ -1,0 +1,8 @@
+80.5	0 to 7
+78.3	8 to 15
+70.1	16 to 23
+65.8	24 to 31
+35.0	32 to 39
+
+
+3*8 = 24(skip to 24th byte to read 4th record) 
